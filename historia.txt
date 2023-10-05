@@ -1,6 +1,17 @@
+<<<<<<< HEAD
 Soy Hans Alonzo, estoy aprendiendo a usar GIT, para
 el mejor control de VERSIONES, con esto quiero decir
 que cada dia quiero ser un mejor PROFESIONAL EN EL AMBITO LABORAL, estoy haciendo
 el versionamiento
 
 Hoy hablaremos de su vida y obra maestra.
+=======
+Esta es la historia de Hans Alonzo
+
+Hans Alonzo tiene 26 años y nacio en guatemalam
+viviendo en todo el mundo
+
+Hoy hablaremos de su historia.
+
+En camara parece alto pero la verdad no es tan alto
+>>>>>>> cabecera
